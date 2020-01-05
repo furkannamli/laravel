@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    overflow: hidden;
+    background: url("https://images2.alphacoders.com/238/thumb-1920-238870.jpg");
+}
+
+.container{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.cover{
+    position: absolute;
+    left: 15%;
+    right: 15%;
+    top: 30%;
+}
+
+.btn-purple{
+    color: white  !important;
+    background-color: #563d7c !important;
+}
+
+.white{
+    color: #ffffff;
+}
+
+.fs-48{
+    font-size: 48px;
+}
+
+.social-card{
+    position: relative;
+    height: 250px;
+    width: 180px;
+    border-radius: 25px;
+}
+
+.skill-card{
+    position: relative;
+    height: 125px;
+    width: 280px;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.row{
+    margin: auto;
+}
+
+.vertical-align{
+    position: absolute;
+    top: 50%;
+    left: 15%;
+    right: 15%;
+}
+
+
+
+
+
